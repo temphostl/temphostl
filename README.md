@@ -1,4 +1,5 @@
 # temphostl
-i bad enough code for it to be considered a cognito hazard
 
-mainly do stuff in C# and it's discord bots
+i mainly code stuff in c# for fun
+
+all of my repos are private until one of my projects is developed at least a little bit
