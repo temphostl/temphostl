@@ -1,2 +1,2 @@
 # temphostl
-most of my stuff is tailored to use with Linux (specifically Fedora Linux)
+most of the stuff i make is tailored to be used with Linux
